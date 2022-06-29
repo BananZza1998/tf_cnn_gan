@@ -1,5 +1,5 @@
 # tf_cnn_gan
-First attempt for Building CNN and GAN
+First attempt for Building CNN and GAN (success!)
 
 
 Repo Content:
