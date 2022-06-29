@@ -25,7 +25,7 @@ IMPORTANT! Weights: HeNormal initializer which performs good with ReLu according
 
 Hyperparameters:  
 
-Number and size of filters are set according to assignment instructions. 11x11 filter used for high level perspective and computational cost reduction.   Other conv layers have 3x3 filters, hich is a common choice - small and odd.  
+Number and size of filters are quite arbitrarily chosen, but I made some prior testing. 11x11 filter used for high level perspective and computational cost reduction.   Other conv layers have 3x3 filters, which is a common choice - small and odd.  
 Stride = 2 meaning that filter shifts by 2 units (pixels) instead of 1. Decreases filters overlapping and results in smaller output dimension.   
 
 
