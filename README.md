@@ -5,6 +5,9 @@ First attempt for Building CNN and GAN
 Repo Content:
 1. cnn_gan.ipynb - main code
 
+Data:
+1. for CNN I used CIFAR-10 dataset
+2. for GAN I used Fashion-MNIST dataset
 
 
 CNN architecture:   
@@ -23,4 +26,7 @@ IMPORTANT! Weights: HeNormal initializer which performs good with ReLu according
 Hyperparameters:  
 
 Number and size of filters are set according to assignment instructions. 11x11 filter used for high level perspective and computational cost reduction.   Other conv layers have 3x3 filters, hich is a common choice - small and odd.  
-Stride = 2 meaning that filter shifts by 2 units (pixels) instead of 1. Decreases filters overlapping and results in smaller output dimension.  
+Stride = 2 meaning that filter shifts by 2 units (pixels) instead of 1. Decreases filters overlapping and results in smaller output dimension.   
+
+
+![repo_pic](https://github.com/BananZza1998/Snaps_1/blob/main/CNN.png)
