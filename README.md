@@ -1,5 +1,5 @@
 # tf_cnn_gan
-First attempt for Building CNN and vanilla GAN using TensorFlow (success!)
+First attempt for Building CNN and vanilla GAN using TensorFlow
 
 
 Repo Content:
